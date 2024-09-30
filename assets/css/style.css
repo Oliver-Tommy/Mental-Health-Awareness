@@ -20,6 +20,14 @@ h6 {
     font-family: 'Montserrat', sans-serif;
 }
 
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #7FDBFF;
+    max-width: 80%;
+}
+
 /* ----------------------------------------------------- Header */
 
 /* ----------------------------------------------------- Logo */
@@ -57,6 +65,8 @@ h6 {
     border: none;
 }
 
+/* ----------------------------------------------------- Main */
+
 /* ----------------------------------------------------- Hero */
 
 .hero {
@@ -80,7 +90,7 @@ h6 {
     font-size: 1.25rem;
 }
 
-hr {
+.hero hr {
     margin-top: 1rem;
     margin-bottom: 1rem;
     border: 0;
@@ -88,11 +98,18 @@ hr {
     max-width: 80%;
 }
 
+/* ----------------------------------------------------- Content */
+
 
 
 
 /* ----------------------------------------------------- Footer */
 
-footer {
+.footer {
     text-align: center;
+    background-color: #F8F9FA;
+}
+
+.fixed-bottom {
+    background-color: #F8F9FA;
 }
