@@ -18,6 +18,7 @@ h4,
 h5,
 h6 {
     font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
 }
 
 hr {
@@ -26,6 +27,10 @@ hr {
     border: 0;
     border-top: 1px solid #7FDBFF;
     max-width: 80%;
+}
+
+.hidden {
+    display: none;
 }
 
 /* ----------------------------------------------------- Header */
@@ -101,7 +106,15 @@ hr {
 /* ----------------------------------------------------- Content */
 
 
+/* ----------------------------------------------------- Common Issues */
 
+.custom-card-color-light {
+    background-color: #7FDBFF;
+}
+
+#issues h2 {
+    margin: 2rem 0;
+}
 
 /* ----------------------------------------------------- Footer */
 
