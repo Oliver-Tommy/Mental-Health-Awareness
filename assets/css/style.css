@@ -23,5 +23,27 @@ h1, h2, h3, h4, h5, h6 {
     display: flex;
     align-items: center;
     margin-right: 20px;
-    color:#7FDBFF
 }
+
+.logo span {
+    color:#001f3f;
+}
+
+.logo span:hover {
+    color: #0074D9;
+}
+
+/* ----------------------------------------------------- Navbar */
+
+.navbar {
+    background-color: #F8F9FA;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #001f3f; 
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #0074D9;
+}
+
