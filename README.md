@@ -39,7 +39,7 @@ Could-Have:
 
 ### Wireframe
 
-A Simple layout, which is designed to be easily navigable and responsive. The number of cards in each section is arbitrary.
+A simple layout, which is designed to be easily navigable and responsive. The number of cards in each section is arbitrary.
 
 ![Wireframe](assets/images/Mental-Health-Awareness-Wireframe.png)
 
