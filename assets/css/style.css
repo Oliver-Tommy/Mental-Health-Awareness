@@ -11,7 +11,12 @@ body {
     color: #001f3f;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -26,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .logo span {
-    color:#001f3f;
+    color: #001f3f;
 }
 
 .logo span:hover {
@@ -40,7 +45,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar-nav .nav-item .nav-link {
-    color: #001f3f; 
+    color: #001f3f;
 }
 
 .navbar-nav .nav-item .nav-link:hover {
@@ -50,5 +55,34 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-light .navbar-toggler {
     color: rgba(0, 0, 0, .5);
     border: none;
+}
+
+/* ----------------------------------------------------- Hero */
+
+.hero {
+    background-image: url("../images/sunsetwater.avif");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    color: #F8F9FA;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+}
+
+.hero h1 {
+    font-size: 2.5rem;
+}
+
+.hero p {
+    font-size: 1.25rem;
+}
+
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 1px solid #F8F9FA;
+    max-width: 80%;
 }
 
