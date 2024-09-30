@@ -39,3 +39,32 @@ Could-Have:
 
 ### Wireframes
 
+
+
+**Colour Scheme:**
+
+The colour scheme selected, was chosen to be calming, with contrast being considered for background and text.
+- Primary: #7FDBFF (Light Blue)
+- Secondary: #0074D9 (Darker Blue) 
+- Accent: #2ECC40 (Green)
+- Text: #001f3f (Dark Navy)
+- Background: #F8F9FA (Off-White)
+
+<br>
+
+![Colour Scheme](assets/images/colourscheme.png)
+
+---
+
+<br>
+
+**Fonts:**
+
+The fonts were selected for their modern style, and high level of readability.
+- Headings: 'Montserrat', sans-serif.
+- Body: 'Open Sans', sans-serif.
+
+<br>
+
+![Fonts](assets/images/fonts.png)
+
