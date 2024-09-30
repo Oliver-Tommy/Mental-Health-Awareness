@@ -37,11 +37,13 @@ Could-Have:
 
 ## Design Decisions
 
-### Wireframes
+### Wireframe
 
+A Simple layout, which is designed to be easily navigable and responsive. The number of cards in each section is arbitrary.
 
+![Wireframe](assets/images/Mental-Health-Awareness-Wireframe.png)
 
-**Colour Scheme:**
+### Colour Scheme:
 
 The colour scheme selected, was chosen to be calming, with contrast being considered for background and text.
 - Primary: #7FDBFF (Light Blue)
@@ -56,9 +58,9 @@ The colour scheme selected, was chosen to be calming, with contrast being consid
 
 ---
 
-<br>
 
-**Fonts:**
+
+### Fonts:
 
 The fonts were selected for their modern style, and high level of readability.
 - Headings: 'Montserrat', sans-serif.
@@ -67,4 +69,6 @@ The fonts were selected for their modern style, and high level of readability.
 <br>
 
 ![Fonts](assets/images/fonts.png)
+
+## Features Implementation
 
