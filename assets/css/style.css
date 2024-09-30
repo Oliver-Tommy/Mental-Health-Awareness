@@ -83,8 +83,9 @@ hr {
     text-align: center;
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: darken;
-    min-height: 40vh;
-    margin-top: 10%;
+    min-height: 45vh;
+    margin-top: 0%;
+    padding-top: 6rem;
 }
 
 .hero h1 {
