@@ -21,7 +21,7 @@ This single-page website aims to provide accessible information on mental health
 - As a user, I want to see an encouraging message about mental health when I first visit the site, so I feel welcomed and supported.
 - As a user, I want to easily find information about common mental health issues, so I can gain a comprehensive understanding.
 - As a user, I want to access tips for managing stress, so I can apply them in day to day life.
-- As a user, I want the website to have a calming color scheme and layout, so I feel at comfortable.
+- As a user, I want the website to have a calming colour scheme and layout, so I feel at comfortable.
 - As a user, I want to see calming images, to be better engaged in the page content.
 
 Should-Have:
@@ -74,7 +74,58 @@ The fonts were selected for their modern style, and high level of readability.
 
 ## Features Implementation
 
+### Core Features (Must-Haves)
+
+1. As a user, I want to see an encouraging message about mental health when I first visit the site, so I feel welcomed and supported.
+- Implemented a jumbotron, for the hero section of the page, covering the whole page.
+
+<br>
+
+2. As a user, I want to easily find information about common mental health issues, so I can gain a comprehensive understanding.
+- Information is organised into sections, with nav bar elements linking to them.
+
+<br>
+
+3. As a user, I want to access tips for managing stress, so I can apply them in day to day life.
+- Implemented a 'Coping Strategies' section, with tips on managing mental health.
+
+<br>
+
+4. As a user, I want the website to have a calming colour scheme and layout, so I feel at comfortable.
+- Used a colour scheme, utilising an off-white background colour.
+- Spaced the sections on the page so that that it is more easily navigable and readable.
+
+<br>
+
+5. As a user, I want to see calming images, to be better engaged in the page content.
+- Added relevant nature-inspired images.
+
+### Advanced Features (Should-Haves)
+
+1. As a user, I want to see a positive thoughts section, for motivation.
+- The first section, when scrolling down is a bootstrap card with an introduction and keeping positive section.
+
+<br>
+
+2. As a user, I want access to external mental health resources, so I can find additional help if needed.
+- Added a resources section, with bootstrap cards, linking to external resources.
+
+<br>
+
+3. As a user, I want the website to be fully responsive, so I can access it comfortably on any device.
+- Utilised bootrap classes and media queries to ensure full responsivity and ease of use on all devices.
+
+### Optional Features (Could-Haves)
+
+1. Added a smooth-scrolling feature when navigation links are clicked on.
+
+2. Added a parallax to the hero image, for a smooth transition to the rest of the page.
+
 ## AI Tools Usage
+
+### ChatGPT
+
+ChatGPT was utilised in order to provide content for the page. Most content was prompted, then modified in order to suit.
 
 ## Testing and Validation
 
