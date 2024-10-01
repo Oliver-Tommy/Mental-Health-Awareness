@@ -41,7 +41,9 @@ Could-Have:
 
 A simple layout, which is designed to be easily navigable and responsive. The number of cards in each section is arbitrary.
 
-![Wireframe](assets/images/Mental-Health-Awareness-Wireframe.png)
+![Computer Wireframe](assets/images/Mental-Health-Awareness-Wireframe.png)
+
+<img src="assets/images/iPhone mental health.png" alt="Phone Wireframe" width=300>
 
 ### Colour Scheme:
 
