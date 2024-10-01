@@ -39,6 +39,11 @@ hr {
     margin-bottom: 50px;
 }
 
+.container-wider {
+    max-width: 80%;
+}
+
+
 /* Parallax */
 
 .parallax-container {
@@ -147,10 +152,6 @@ hr {
 
 /* ----------------------------------------------------- Common Issues */
 
-/* .container-wider {
-    max-width: 70%;
-} */
-
 #issues h2 {
     margin: 2rem 0;
 }
@@ -160,7 +161,20 @@ hr {
     max-width: 300px;
 }
 
+/* ----------------------------------------------------- Stress Management */
 
+.tips-img {
+    background-image: url("../images/yoga-nature\ 1.jpeg");
+    background-size: cover;
+    background-position: center;
+    opacity: 1;
+    color: #F8F9FA;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: darken;
+    min-height: 50vh;
+    margin-top: 0%;
+    padding: 1% 5% 1% 5%;
+}
 
 /* ----------------------------------------------------- Footer */
 

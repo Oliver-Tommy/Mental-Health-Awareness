@@ -2,7 +2,8 @@
 // Smooth scroll func
 function smoothScroll(target, duration) {
     var targetElement = document.querySelector(target);
-    var targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset;
+    var navbarHeight = document.querySelector('nav').offsetHeight;
+    var targetPosition = targetElement.getBoundingClientRect().top + window.pageYOffset -navbarHeight;
     var startPosition = window.pageYOffset;
     var distance = targetPosition - startPosition;
     var startTime = null;
