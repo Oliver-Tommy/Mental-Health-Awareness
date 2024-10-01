@@ -46,6 +46,13 @@ hr {
 }
 
 
+
+.background-dulled {
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 1%;
+    padding: 1rem 2rem 4rem;
+}
+
 /* Parallax */
 
 .parallax-container {
@@ -156,11 +163,13 @@ hr {
 
 #issues h2 {
     margin: 2rem 0;
+    padding-top: 2rem;
 }
 
 .center-image {
     border-radius: 50%;
     max-width: 300px;
+    margin-bottom: 4rem;
 }
 
 /* ----------------------------------------------------- Stress Management */
@@ -171,7 +180,7 @@ hr {
     background-position: center;
     opacity: 1;
     color: #F8F9FA;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0);
     background-blend-mode: darken;
     min-height: 50vh;
     margin-top: 0%;
@@ -205,6 +214,10 @@ hr {
         position: relative;
         overflow: hidden;
         border-radius: 50%;
+    }
+
+    .tips-img {
+        background-position: 70%;
     }
 
 }
