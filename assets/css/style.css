@@ -33,6 +33,10 @@ hr {
     display: none;
 }
 
+.section-hr {
+    border-block-width: 2px;
+}
+
 /* ----------------------------------------------------- Header */
 
 /* ----------------------------------------------------- Logo */
@@ -110,17 +114,20 @@ hr {
 
 /* ----------------------------------------------------- Common Issues */
 
-.custom-card-color-light {
-    background-color: #7FDBFF;
-}
+/* .container-wider {
+    max-width: 70%;
+} */
 
 #issues h2 {
     margin: 2rem 0;
 }
 
-.common-issues-list li {
-    padding: 0.5rem 0;
+.center-image {
+    border-radius: 50%;
+    max-width: 300px;
 }
+
+
 
 /* ----------------------------------------------------- Footer */
 
@@ -131,4 +138,24 @@ hr {
 
 .fixed-bottom {
     background-color: #F8F9FA;
+}
+
+
+@media(max-width: 992px) {
+    .center-image {
+        border-radius: 50%;
+        max-width: 50%;
+        max-height: 50%;
+        margin: 1rem 0 2rem 0;
+        border-radius: 50%;
+    }
+
+    .image-crop {
+        width: 200px;
+        height: 200px;
+        position: relative;
+        overflow: hidden;
+        border-radius: 50%;
+    }
+
 }
