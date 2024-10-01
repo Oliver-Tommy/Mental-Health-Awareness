@@ -48,9 +48,17 @@ hr {
 
 
 .background-dulled {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .6);
     border-radius: 1%;
     padding: 1rem 2rem 4rem;
+}
+
+.intro-h2 {
+    font-size: 2rem;
+}
+
+h2 {
+    font-size: 2.5rem;
 }
 
 /* Parallax */
@@ -185,6 +193,24 @@ hr {
     min-height: 50vh;
     margin-top: 0%;
     padding: 5% 5% 10% 5%;
+}
+
+.tips-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* ----------------------------------------------------- Resources */
+
+.button-blue {
+    color: #0074D9;
+    background-color: #F8F9FA;
+    border-width: 1px;
+    padding-left: 0;
+}
+
+#res-heading {
+    margin-bottom: 4rem;
 }
 
 /* ----------------------------------------------------- Footer */
