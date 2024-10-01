@@ -40,7 +40,9 @@ hr {
 }
 
 .container-wider {
-    max-width: 80%;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 
@@ -169,11 +171,11 @@ hr {
     background-position: center;
     opacity: 1;
     color: #F8F9FA;
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.6);
     background-blend-mode: darken;
     min-height: 50vh;
     margin-top: 0%;
-    padding: 1% 5% 1% 5%;
+    padding: 5% 5% 10% 5%;
 }
 
 /* ----------------------------------------------------- Footer */
