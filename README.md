@@ -74,3 +74,15 @@ The fonts were selected for their modern style, and high level of readability.
 
 ## Features Implementation
 
+## AI Tools Usage
+
+## Testing and Validation
+
+## Deployment
+
+## Reflection on Development Process
+
+## Code Attribution
+
+## Future Improvements
+
