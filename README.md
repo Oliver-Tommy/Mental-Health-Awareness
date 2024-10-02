@@ -164,7 +164,7 @@ The HTML and CSS were validated using W3C and Jigsaw validators, with no errors 
 
 The site was deployed using GitHub pages, from the main branch.
 
-URL: https://oliver-tommy.github.io/Mental-Health-Awareness/
+<a href="https://oliver-tommy.github.io/Mental-Health-Awareness/" target="_blank">Link to the site</a>
 
 ## Reflection on Development Process
 
