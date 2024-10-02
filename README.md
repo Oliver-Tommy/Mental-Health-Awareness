@@ -125,11 +125,19 @@ The fonts were selected for their modern style, and high level of readability.
 
 ### ChatGPT
 
-ChatGPT was utilised in order to provide content for the page. Most content was prompted, then modified in order to suit.
+ChatGPT was utilised in order to provide content for the page. Most of the page content was prompted, then modified in order to suit.
 
 ## Testing and Validation
 
+
+
 ## Deployment
+
+### GitHub Pages
+
+The site was deployed using GitHub pages, from the main branch.
+
+URL: https://oliver-tommy.github.io/Mental-Health-Awareness/
 
 ## Reflection on Development Process
 
