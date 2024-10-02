@@ -129,7 +129,34 @@ ChatGPT was utilised in order to provide content for the page. Most of the page 
 
 ## Testing and Validation
 
+### Testing finds
 
+The site was tested on various screen sizes throughtout the creation process, the main issues found were with text spacing, which was fixed through the use of bootstrap margin and border classes. 
+
+Additionally, bootstrap column classes were set up differently depending on the screen sizing, in order to increase readability on smaller devices. As a part of this, the tree image was resized and reshaped, so that it wouldn't take up the whole screen on smaller devices.
+
+### Screenshots  taken from the deployed website:
+
+<br>
+
+<p float="left">
+    <img src="assets/images/Phone-site.png" alt="Image of the site on a phone" width=300>
+    <img src="assets/images/tablet-site.png" alt="Image of the site on a tablet" width=500>
+    <img src="assets/images/Laptop-site.png" alt="Image of the site on a laptop" width=700>
+</p>
+
+
+### Validation
+
+The HTML and CSS were validated using W3C and Jigsaw validators, with no errors found.
+
+<br>
+
+<img src="assets/images/html validation .png" alt="Image showing HTML validation">
+
+<br>
+
+<img src="assets/images/CSS validation.png" alt="Image showing CSS validation">
 
 ## Deployment
 
