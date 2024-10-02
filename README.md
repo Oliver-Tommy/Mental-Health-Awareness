@@ -199,7 +199,7 @@ Smooth-scroll reference: https://stackoverflow.com/questions/10063380/smooth-scr
 
 Parallax reference: https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
 
-## Images, Icons and Logo
+## Sources for Images, Icons and Logo
 
 ### Images
 
@@ -219,3 +219,8 @@ The logo was sourced from <a href="https://www.flaticon.com/free-icon/male-head-
 
 ## Future Improvements
 
+- In the future, a light/dark mode would make the site more customisable to the users preference.
+- More javascript features, to improve the modern aesthetic of the site, but not too much to overwhelm.
+- Site performance optimisation.
+- More pages and content.
+- User interaction (Form sign-up for newsletter).
