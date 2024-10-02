@@ -168,7 +168,54 @@ URL: https://oliver-tommy.github.io/Mental-Health-Awareness/
 
 ## Reflection on Development Process
 
+### Successes
+
+- Managed to create a fully functioning page, with no huge issues.
+- The layout and design is better than originally planned.
+- Added some javascript functionality to make the website feel more smooth and responsive.
+
+### Challenges
+
+- Sticking to the predetermined plan.
+- Once I got going, I couldn't stop, as there was a constant stream of new ideas to implement.
+
+### Final Thoughts
+
+- In the next project I plan to utilise a kanban board or similar process to break-down the features to implement.
+
 ## Code Attribution
+
+### Bootstrap
+
+Reference to the bootstrap documentation was used to implement several features across the site.
+
+Link to the documentation: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+### Javascript Features
+
+As I have no prior experience in JavaScript, references were used in order to implement the smooth-scroll and parallax features.
+
+Smooth-scroll reference: https://stackoverflow.com/questions/10063380/smooth-scroll-without-the-use-of-jquery
+
+Parallax reference: https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
+
+## Images, Icons and Logo
+
+### Images
+
+Hero background image source: https://unsplash.com/photos/photo-of-ocean-during-golden-hour-zsgiZnQtvsY
+
+Tree image source: https://unsplash.com/photos/sun-light-passing-through-green-leafed-tree-EwKXn5CapA4
+
+Yoga in nature image source: https://www.pexels.com/photo/a-woman-drinking-water-6298338/
+
+### Icons
+
+<a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a> was used to provide the '>' icons for the bullet points.
+
+### Logo
+
+The logo was sourced from <a href="https://www.flaticon.com/free-icon/male-head-side-view-with-brains_30549?term=head&page=1&position=9&origin=search&related_id=30549" target="_blank">Flaticon.com</a>, and the base image was converted to a favicon using the website <a href="https://favicon.io/favicon-converter/" target="_blank">Favicon.io</a>.
 
 ## Future Improvements
 
