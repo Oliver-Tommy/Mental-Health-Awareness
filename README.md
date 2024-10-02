@@ -187,9 +187,9 @@ URL: https://oliver-tommy.github.io/Mental-Health-Awareness/
 
 ### Bootstrap
 
-Reference to the bootstrap documentation was used to implement several features across the site.
+The bootstrap framework was utilised for this project (version 4.6.2).
 
-Link to the documentation: https://getbootstrap.com/docs/4.0/getting-started/introduction/
+Reference to the <a href="https://getbootstrap.com/docs/4.0/getting-started/introduction/" target="_blank">bootstrap documentation</a> was used to implement several features across the site.
 
 ### Javascript Features
 
